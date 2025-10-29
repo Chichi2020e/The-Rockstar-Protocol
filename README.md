@@ -5,5 +5,5 @@ Home-Lab🥽/
 Network-Mapping🛜/
 Cloud-Security🔐/
 TryHackMe-Reports👩🏽‍💻/
-Resume.pdf📑
-
+Resume.pdf📑/
+Certificates🏅
